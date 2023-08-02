@@ -24,8 +24,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#sanity
+sanity/node_modules
+
 # local env files
 .env*.local
+.env
 
 # vercel
 .vercel
